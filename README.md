@@ -1,4 +1,5 @@
-- My name is Pau Blanes, aka. @paubcdev
+- My name is Pau B. , aka. @paubcdev
+- My pronouns are **He/They**. Residing in The Netherlands.
 - 🔐 I'm a cybersecurity engineer and software developer.
 - 💬 Proficient in Python, Rust, C/C++ and, to a lesser extent SQL and R.
 - 📊 Previously working in Data Engineering.
